@@ -42,27 +42,6 @@ This application allows users to securely register, log in, manage multiple acco
 - Java JDK 8 or higher
 - Any Java IDE (like IntelliJ, Eclipse, VS Code)
 
-### 🔧 Setup Instructions
 
-1. **Clone this repo**
 
-   ```bash
-   git clone https://github.com/Devansh-ds/CANTILEVER.git
 
-   ```
-
-2. **Change directory**
-
-   ```bash
-   cd bank-management
-
-   ```
-
-3. **compile and run**
-
-   ````bash
-   
-   javac *.java
-   java BankApp
-
-   ````
